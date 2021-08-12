@@ -49,11 +49,11 @@ export default function SavedPage() {
         <Grid item xs={12} md={6}>
           <TextField
             id="standard-full-width"
-            label="Kërkoni një postim të ruajtur"
+            label="Pesquise uma postagem"
             style={{ margin: 8 }}
             value={searchVal}
             // placeholder="Shkruani një fjalë ose një grup fjalësh"
-            helperText="Me shumë se 2 karaktere"
+            helperText="Com mais de 2 caracteres"
             fullWidth
             margin="normal"
             InputLabelProps={{
