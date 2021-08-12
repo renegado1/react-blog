@@ -11,7 +11,7 @@ export default function FavoritesPage() {
 
   return (
     <div className={classes.root}>
-      <h4>Zgjidhni perferencat në bazë të të cilave do ju shfaqen postimet</h4>
+      <h4>Escolha as preferências sob as quais suas postagens preferidas serão exibidas</h4>
       <ChipsComponent />
     </div>
   );
