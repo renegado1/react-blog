@@ -11,7 +11,6 @@ export default function SettingsPage() {
       <br/>
       <Typography variant="caption" display="block" gutterBottom>
         <center>
-          <Link href="https://github.com/edisonneza" target="_blank">&copy;  Edison Neza </Link>
           <br/><span>{Constants.appVersion}</span>
           </center>
       </Typography>
